@@ -1,0 +1,33 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+  }
+   header {
+    background-color:#013809;
+    color: #fff;
+    padding: 20px;
+  }
+   ul li a {
+    color:rgb(173, 118, 46);
+    text-decoration: none;
+  }
+  li{
+    display: inline;
+    margin-right:50px;
+  }
+ 
+ 
+  footer {
+    background-color: #995f09;
+    color: #fff;
+    padding: 10px;
+  }
+   #home img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+   #portfolio{
+    background-color: rgb(60, 223, 210);
+    padding: 10px;
+  }
